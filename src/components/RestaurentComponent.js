@@ -18,7 +18,7 @@ const RestaurentComponent = (props) => {
                 <h5 className="mx-4 font-serif text-green-950">{resData.info.avgRating} Star</h5>
                 <h5 className="mx-4 font-serif font-semibold">{resData.info.costForTwo}</h5>
                 <h5 className="mx-4 font-serif text-pink-600">{resData.info.sla.slaString}</h5>
-                <h5 className="mx-4 font-serif text-pink-600">{data.loggedUser}</h5>   
+                {/* <h5 className="mx-4 font-serif text-pink-600">{data.loggedUser}</h5>    */}
         
             </div>
        

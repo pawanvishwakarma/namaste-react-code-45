@@ -11,6 +11,8 @@ const RestaurentMenu = () => {
 const {resId} = useParams();
 const resinfo = useRestaurentMenu(resId);
 
+// console.log("Restaurant Menu",resinfo)
+
 const [showIndex, setShowIndex] = useState(null);
    
 
