@@ -1,7 +1,218 @@
-#heading{
-    color: rgb(255, 102, 0);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .header{
+    width: 100%;
+    height: 90px;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 5px 5px 8px 10px #888888;
 }
-#container{
-    text-align: center;
-    margin-top: 30%;
+.logo {
+    width: 100px;
+    height: 90px;
+    
 }
+.nav-items ul li{
+    padding: 10px;
+    margin: 10px;
+    
+}
+.nav-items ul{
+    display: flex;
+    list-style-type: none;
+    font-size: 14px;
+
+}
+.body-container {
+    width: 99.8%;
+ 
+   
+    
+}
+.rest-container{
+    padding: 20px;
+    margin: 15px;
+    margin-left: 6rem;
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    
+}
+.rest-card{
+    padding: 10px;
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    background-color: rgb(230, 239, 240);
+    border-radius: 13px;
+    
+  
+    
+    
+}
+.rest-card:hover{
+    cursor: pointer;
+    border: 1px solid gray;
+}
+.image{
+    width: 200px;
+    height: 160px;
+}
+.footer{
+    width: 99.8%;
+   
+    
+}
+.footer ul{
+    display: flex;
+    justify-content: space-around;
+}
+.footer ul li{
+    padding: 10px;
+    margin: 10px;
+    list-style-type: none;
+    font-size: 18px;
+    
+}
+
+.btn-container{
+   
+   display: flex;
+   margin-left: 7.8rem;
+   margin-top: 2rem;
+   padding: 20px;
+   background-color: #f0f0f0;
+   width: 85%;
+
+}
+
+.shimmer-container{
+    padding: 20px;
+    margin: 15px;
+    margin-top: 6rem;
+    margin-left: 6rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.shimmer-card{
+    padding: 10px;
+    width: 200px;
+    height: 450;
+    margin: 9px;
+    margin-top: 1.4rem;
+    background-color: rgb(230, 239, 240);
+    border-radius: 13px;
+}
+
+.login-btn {
+    margin-top: -12px;
+    width: 80px;
+    height: 30px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.show-al-resto{
+    margin-left: 15rem;
+}
+.search-btn{
+    margin-left: 15rem;
+}
+.btn{
+    margin-left: 5rem;
+
+}
+
+.restaurent-menu{
+    margin-top: 4rem;
+    margin-left: 16rem;
+   
+}
+
+.rest-name{
+    font-family: Sans-serif;
+}
+
+.rest-menu-order{
+    width: 70%;
+    height: 200px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    box-shadow: 5px 5px 8px 10px #888888;
+}
+.rating{
+    font-family: Sans-serif;
+    font-size: 15px;
+     margin-left: 2rem;
+}
+.cuisines{
+    display: inline-flex;
+    margin-left: 2rem;
+    margin-top: -4rem;
+    color: rgba(247, 92, 20, 0.932);
+    
+}
+.item-container{
+    width: 70%;
+    margin-top: 2rem;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    
+}
+.item-card{
+
+    height: 190px;
+    background-color: #e0e7e7;
+    border-radius: 10px;
+   display: flex;
+    
+}
+.item-name{
+    display: flex;
+   margin-left: 3rem;
+   margin-top: 3rem;
+   margin-right: 12rem;
+   
+    
+}
+.image-item{
+    width: 150px;
+    height: 110px;
+    border-radius: 5px;
+    float: right;
+    margin-right: 3rem;  
+    margin-top: 2.5rem; 
+    
+
+}
+
+.add-btn{
+    width: 60px;
+    height: 30px;
+    border-radius: 8px;
+    position: relative;
+    top: 8.3rem;   
+    right: 9.7rem;
+    cursor: pointer;
+    background-color: #f0f0f0;  
+    font-family: sans-serif;
+    color: rgb(12, 170, 12);
+    font-size: 16px;
+    font-weight: bold;
+    border: 0px;
+}
+
+.user-card{
+    margin: 1rem;
+    margin-top: 2rem;
+    padding: 10px;
+    border: 1px solid black;
+} */
